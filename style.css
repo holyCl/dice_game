@@ -11,7 +11,7 @@
 
 
 #dice-1 { top: 120px; }
-#dice-1 { top: 250px; }
+#dice-2 { top: 250px; }
 
 .final-score {
     position:absolute;
@@ -20,7 +20,7 @@
     top: 520px;
     color: #555;
     font-size: 18px;
-    font-family: 'Lalto';
+    font-family: 'Lato';
     text-align: center;
     padding: 10px;
     width: 160px;
